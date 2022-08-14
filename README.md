@@ -32,14 +32,14 @@ I'm a Senior Full Stack Developer and DevOps engineer. Currently working remotel
 Languages & Technologies: `Laravel`, `Vue.js`, `React`, `Wordpress`, `Node`, `AWS`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Yampi" src="https://yt3.ggpht.com/A3o9xqHzGIvJ4sZ39vJDcHGWAIN747zqn-a8WPZV4gH1tlROhcV2qMcDveIen6wyHY2OzrbWwA=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
+[<img align="left" height="94px" width="94px" alt="Yampi" src="https://yt3.ggpht.com/A3o9xqHzGIvJ4sZ39vJDcHGWAIN747zqn-a8WPZV4gH1tlROhcV2qMcDveIen6wyHY2OzrbWwA=s900-c-k-c0x00ffffff-no-rj"/>](https://yampi.com.br/)
 
 **Tech Lead** \
 [**Yampi**](https://yampi.com.br/) • Remote • Brazil \
 Languages & Technologies: `Laravel`, `Vue.js`, `Docker`, `Node`, `AWS`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Firework Web" src="https://user-images.githubusercontent.com/11093090/184554154-e3a45c2e-c06c-4329-b644-087de1c1d4f2.png"/>](https://nubank.com.br/)
+[<img align="left" height="94px" width="94px" alt="Firework Web" src="https://user-images.githubusercontent.com/11093090/184554154-e3a45c2e-c06c-4329-b644-087de1c1d4f2.png"/>](https://fireworkweb.com/)
 
 **Lead Full Stack Developer** \
 [**Firework Web**](https://fireworkweb.com/) • Bauru/SP • Brazil \
