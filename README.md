@@ -21,7 +21,9 @@
     </a>
 </p>
 
-I'm a Senior Full Stack Developer and DevOps engineer. Currently working remotely for [Awesome Motive](https://awesomemotive.com/) in [OptinMonster](https://optinmonster.com/).
+- 💻 I'm a Senior Full Stack Developer and DevOps engineer. 
+- 👨‍💻 Currently working remotely for [Awesome Motive](https://awesomemotive.com/) in [OptinMonster](https://optinmonster.com/).
+- 🌐 I speak Portuguese, English and Spanish. 
 
 ### Working Experience
 
@@ -48,7 +50,6 @@ Featured Projects: [eslint-config](https://github.com/fireworkweb/eslint-config)
 <br/>
 <br/>
 
-[<img src="https://github-readme-stats-lake-nine.vercel.app/api?username=gabrielboliveira&count_private=true&show_icons=true&theme=onedark" align="left" width="400"/>]()
+<img src="https://github-readme-stats-lake-nine.vercel.app/api?username=gabrielboliveira&count_private=true&show_icons=true&theme=onedark" align="left" height="140"/>
 
-<img src="https://github-readme-stats-lake-nine.vercel.app/api/top-langs/?username=gabrielboliveira&theme=onedark&layout=compact&langs_count=4" />
-
+<img src="https://github-readme-stats-lake-nine.vercel.app/api/top-langs/?username=gabrielboliveira&theme=onedark&layout=compact&langs_count=4" height="140" />
