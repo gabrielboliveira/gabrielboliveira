@@ -53,3 +53,5 @@ Featured Projects: [eslint-config](https://github.com/fireworkweb/eslint-config)
 <img src="https://github-readme-stats-lake-nine.vercel.app/api?username=gabrielboliveira&count_private=true&show_icons=true&theme=onedark" align="left" height="140"/>
 
 <img src="https://github-readme-stats-lake-nine.vercel.app/api/top-langs/?username=gabrielboliveira&theme=onedark&layout=compact&langs_count=4" height="140" />
+
+![](https://hit.yhype.me/github/profile?user_id=11093090)
