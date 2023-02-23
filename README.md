@@ -27,7 +27,7 @@
 
 ### Working Experience
 
-[<img align="left" height="94px" width="94px" alt="Yampi" src="https://yt3.ggpht.com/A3o9xqHzGIvJ4sZ39vJDcHGWAIN747zqn-a8WPZV4gH1tlROhcV2qMcDveIen6wyHY2OzrbWwA=s900-c-k-c0x00ffffff-no-rj"/>](https://yampi.com.br/)
+[<img align="left" height="94px" width="94px" alt="Yampi" src="https://media.glassdoor.com/sqll/5165924/yampi-squareLogo-1626291593460.png"/>](https://yampi.com.br/)
 
 **Tech Lead** \
 [**Yampi**](https://yampi.com.br/) • Remote • Brazil \
